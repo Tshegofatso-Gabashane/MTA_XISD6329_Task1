@@ -1,0 +1,296 @@
+/* ==============================
+   GENERAL
+================================ */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:#f8f9fa;
+
+    color:#222;
+
+}
+
+/* ==============================
+   NAVBAR
+================================ */
+
+.navbar{
+
+    background:#003C8F;
+
+}
+
+.navbar-brand{
+
+    color:white !important;
+
+    font-weight:bold;
+
+}
+
+.nav-link{
+
+    color:white !important;
+
+    margin-left:15px;
+
+}
+
+.nav-link:hover{
+
+    color:#FFD54F !important;
+
+}
+
+/* ==============================
+   FOOTER
+================================ */
+
+.footer{
+
+    background:#003C8F;
+
+    color:white;
+
+    padding:50px 0;
+
+}
+
+.footer a{
+
+    color:white;
+
+    text-decoration:none;
+
+}
+
+.footer a:hover{
+
+    color:#FFD54F;
+
+}
+
+/* ==============================
+   HERO SECTION
+================================ */
+
+.hero{
+
+    background:linear-gradient(rgba(0,60,143,.75),
+                               rgba(0,60,143,.75)),
+               url("../images/hero-tennis.PNG");
+
+    background-size:cover;
+
+    background-position:center;
+
+    color:white;
+
+    padding:120px 0;
+
+}
+
+.hero h1{
+
+    font-size:3rem;
+
+    font-weight:700;
+
+}
+
+.hero p{
+
+    font-size:1.2rem;
+
+    margin:20px 0;
+
+}
+
+.hero img{
+
+    max-width:500px;
+
+}
+
+/* ==============================
+   BUTTONS
+================================ */
+
+.btn-warning{
+
+    background:#FFD54F;
+
+    border:none;
+
+    color:#000;
+
+    font-weight:600;
+
+}
+
+.btn-warning:hover{
+
+    background:#FFC107;
+
+}
+
+.hero{
+
+background:linear-gradient(rgba(0,60,143,.8),rgba(0,60,143,.8)),
+url("../images/hero-tennis.PNG");
+
+background-size:cover;
+
+background-position:center;
+
+padding:120px 0;
+
+color:white;
+
+}
+
+.hero h1{
+
+font-size:60px;
+
+font-weight:bold;
+
+}
+
+.hero p{
+
+font-size:22px;
+
+margin:25px 0;
+
+}
+
+.card{
+
+border:none;
+
+transition:.3s;
+
+}
+
+.card:hover{
+
+transform:translateY(-10px);
+
+}
+
+section{
+
+padding:80px 0;
+
+}
+
+.bg-primary{
+
+background:#003C8F !important;
+
+}
+
+.card{
+
+border-radius:15px;
+
+overflow:hidden;
+
+}
+
+.card-body{
+
+padding:30px;
+
+}
+
+h1,h2,h3,h4{
+
+font-weight:700;
+
+}
+
+p{
+
+line-height:1.8;
+
+}
+
+.table{
+
+background:#fff;
+
+}
+
+.list-group-item{
+
+font-size:18px;
+
+padding:15px;
+
+}
+
+.btn{
+
+border-radius:30px;
+
+padding:12px 30px;
+
+font-weight:600;
+
+}
+
+form label{
+
+font-weight:600;
+
+}
+
+.form-control,
+.form-select{
+
+padding:12px;
+
+border-radius:10px;
+
+}
+
+.card{
+
+border-radius:20px;
+
+}
+
+.form-control{
+
+height:50px;
+
+}
+
+.btn{
+
+transition:.3s;
+
+}
+
+.btn:hover{
+
+transform:scale(1.05);
+
+}
+
+.card{
+
+box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
