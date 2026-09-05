@@ -4,8 +4,9 @@
   "description": "XISD6329 Task1-POE",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+  "dev": "nodemon src/index.js",
+  "build": "tsc"  
   },
   "author": "Tshegofatso-Gabashane",
   "license": "MIT",
