@@ -1,0 +1,13 @@
+{
+  "name": "MTA_XISD6329_Task1",
+  "version": "1.0.0",
+  "description": "XISD6329 Task1-POE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tshegofatso-Gabashane",
+  "license": "MIT",
+  "dependencies": {}
+}
