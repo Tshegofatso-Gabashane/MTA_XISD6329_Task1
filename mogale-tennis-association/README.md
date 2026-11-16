@@ -1,5 +1,5 @@
 # 🎾 Mogale Tennis Association (MTA)
- 
+
 **Tennis Association Management System**
 
 *A web-based system for managing tennis association information and activities.*
@@ -99,7 +99,7 @@ The folders include:
 - **Administration:** Contains files used for administrative functions.
 - **Database:** Contains the database connection files.
 - **Reusable Components:** Contains shared website components.
-- **Images:** Stores images used throughout the website.
+- **Images:** Stores images used throughout the website and README.
 - **Main Website Files:** Contains the pages used by public users and members.
 
 ## 7. Running the Application Locally
@@ -125,9 +125,36 @@ GitHub was used to store and manage the website's source code. It also allowed g
 
 [View the MTA Website Repository](https://github.com/Tshegofatso-Gabashane/MTA_XISD6329_Task1)
 
-## 9. Application Screenshots
+## 9. Website Screenshots
 
-Screenshots of the website can be added here to demonstrate the different pages and system features.
+The following screenshots show the different pages and features of the Mogale Tennis Association website.
+
+### Home Page
+![Home Page](images/home.jpeg)
+
+### About Page
+![About Page](images/about.jpeg)
+
+### Membership Page
+![Membership Page](images/Membership.jpeg)
+
+### Teams Page
+![Teams Page](images/Teams.jpeg)
+
+### Players Page
+![Players Page](images/players.jpeg)
+
+### Fixtures Page
+![Fixtures Page](images/Fixtures.jpeg)
+
+### Events Page
+![Events Page](images/Events.jpeg)
+
+### Gallery Page
+![Gallery Page](images/Gallery.jpeg)
+
+### Contact Page
+![Contact Page](images/Contact.jpeg)
 
 ## 10. Project Management
 
